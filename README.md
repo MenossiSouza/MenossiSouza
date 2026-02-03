@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MenossiSouza
-- 👀 I’m interested in IBM MAXIMO, Python, Java
-- 🌱 I’m currently learning Nada
-- 💞️ I’m looking to collaborate on MaxMatters
+- 👀 I’m interested in IBM MAXIMO, Python, Java, PHP, C#
+- 💞️ I’m looking to collaborate on Futebolcard
 - 📫 How to reach me: menossisouza@gmail.com or 11958563345 =)
 
 <!---
